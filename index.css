@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.patrnered {
+    background-color: #faf7e8;
+}
+
+.delivery-partner-logo {
+    border-radius: 10px;
+    width: 25vw;
+    background-color: #faf7e8;
+    height: 15vh;
+}
+
+.feedback {
+    background-image: linear-gradient(to right, lightskyblue, white);
+}
+
+.feedback-heading {
+
+    font-size: 6vw;
+}
+
+.map {
+    margin-bottom: 10px;
+}
+
+.footer-section {
+    background-color: #faf7e8;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.food-munch-logo {
+    width: 60vw;
+    height: 10vh;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 7vw;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: lightskyblue;
+    font-size: 35px;
+}
+
+.item-card {
+    background-image: -webkit-radial-gradient(white, lightblue);
+}
+
+.sub-category-name {
+    margin-left: 22px;
+    color: yellow;
+    font-size: 6vw;
+}
+
+.price {
+    font-size: 5vw;
+    font-weight: bold;
+    color: #ffb703;
+}
+
+.round {
+    border-radius: 8px;
+    background-image: linear-gradient(to right, lightblue, white, skyblue);
+    text-align: center;
+}
+
+.foodnav {
+    background-color: red;
+}
+
+.item {
+    font-family: "canvas";
+    font-weight: 800;
+    font-size: 5vw;
+    color: rgb(107, 62, 62);
+}
+
+.menu-card {
+    background-image: linear-gradient(to right, lightskyblue, white);
+    margin-top: 10px;
+    box-shadow: 10px 10px 5px grey;
+    margin-bottom: 10px;
+}
+
+.category {
+    color: black;
+    background-image: linear-gradient(to right, orange, white);
+    margin-left: 5px;
+    font-weight: 800;
+    font-size: 10vw;
+}
+
+
+
+
+.editedcollapse {
+    background-image: url("logo_4.png");
+    background-size: cover;
+    font-weight: bold;
+
+
+}
+
+.bt-bg {
+    background-color: rgb(83, 139, 137);
+}
+
+.ht-bg {
+    width: 80vw;
+}
+
+.ecom-bluetext {
+    color: blue;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.ecom-redtext {
+    color: red;
+    font-weight: 700;
+}
+
+.ecommerce-website-logo {
+    width: 160px;
+    height: 80px;
+    border-radius: 52px;
+}
+
+.fm-heading {
+    font-family: "canvas";
+    color: lightskyblue
+}
+
+.opt-font {
+    font-weight: 500;
+    color: rgb(144, 194, 228);
+}
+
