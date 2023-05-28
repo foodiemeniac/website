@@ -15,10 +15,12 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top ">
+    <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top">
         <div class="d-flex flex-row">
-            <img src="main_cover.jpeg" alt="" class="ht-bg">
-            <button class="navbar-toggler bt-bg" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <img src="main_cover.jpeg" alt="" class="main-cover-img d-block d-sm-block d-md-none w-100">
+            <img src="main_cover.jpeg" alt="" class="main-cover-img d-none d-sm-none d-md-block w-50 mr-2">
+
+            <button class="navbar-toggler navbar-button" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
         </div>
@@ -52,7 +54,7 @@
                             <div class="carousel-inner shadow-4">
                                 <div class="carousel-item active">
                                     <img src="shakes_mob_1.jpg" class="d-block d-sm-block d-md-none w-100" alt="...">
-                                    <img src="shakes_mob_1.jpg" class="d-none d-sm-none d-md-block w-100" alt="...">
+                                    <img src="shakes_mob_1.jpg" class="d-none d-sm-none d-md-block w-100 " alt="...">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="icecream_mob_1.jpg" class="d-block d-sm-block d-md-none w-100" alt="...">
@@ -87,11 +89,11 @@
 
     </div>
     <div id="shakes">
-        <div class="menu-card">
+        <div class="menu-card  ">
             <h1 class="category">Shakes</h1>
             <div class="sub-category-card row ">
-                <div class="col-6 ">
-                    <h4 class="sub-category-name">Thick sake</h4>
+                <div class="col-6">
+                    <h4 class="sub-category-name">Thick shake</h4>
                 </div>
                 <div class="col-6 ">
                     <p class="price round">149</p>
@@ -137,7 +139,7 @@
 
     </div>
     <div id="icecream">
-        <div class="menu-card">
+        <div class="menu-card  ">
             <h1 class="category">Icecream</h1>
             <div class="item-card">
                 <div class="row ">
@@ -204,7 +206,7 @@
         </div>
     </div>
     <div id="pizzas">
-        <div class="menu-card">
+        <div class="menu-card  ">
             <h1 class="category">Pizzas</h1>
             <div class="item-card">
                 <div class="row ">
@@ -255,7 +257,7 @@
                         <p class="price round"> @ 169</p>
 
                     </div>
-                    <div class="col-12">
+                    <div class="col-12" id="shawarma">
                         <ul>
                             <li class="item">Double Chicken Loaded Pizza</li>
                         </ul>
@@ -266,9 +268,9 @@
 
         </div>
     </div>
-    <div id="shawarma">
-        <div class="menu-card">
-            <h1 class="category">Shawarma</h1>
+    <div  >
+        <div class="menu-card" >
+            <h1 class="category" >Shawarma</h1>
             <div class="item-card">
                 <div class="row ">
                     <div class="col-12">
@@ -305,7 +307,7 @@
         </div>
     </div>
     <div id="addon">
-        <div class="menu-card">
+        <div class="menu-card  ">
             <h1 class="category">+Add Ons</h1>
             <div class="item-card">
                 <div class="row ">
@@ -327,12 +329,12 @@
     <div class="feedback ">
         <div class="container">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 col-lg-12">
                     <h1 class="feedback-heading">We know you have enjoyed our menu.Give feedback to improve quality of service.<br>Follow the heart.</h1>
 
                 </div>
                 <div class="col-12 text-center follow-us-icon-container">
-                    <a href="https://goo.gl/maps/RTDpRu7HMnJW2Asq7" target="_blank">
+                    <a href="https://forms.gle/PgPNFvCoaa6iFDXz9" target="_blank">
                         <i class="fas fa-heart fa-spin icon text-center" style="color: #1dd3d0;"></i>
                     </a>
                 </div>
@@ -343,7 +345,7 @@
     </div>
     <div class="patrnered">
         <H1 class="follow-us-section-heading">Partnered with :</H1>
-        <div class="row p-5">
+        <div class="row  text-center">
             <div class="col-6">
                 <img src="Zomato_Logo.jpg" class="delivery-partner-logo" />
             </div>
@@ -354,7 +356,7 @@
         </div>
 
     </div>
-    <div class="follow-us-section pt-5 pb-5" id="followUsSection">
+    <div class="follow-us-section " id="followUsSection">
         <div class="container">
             <div class="row">
                 <div class="col-12">
