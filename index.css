@@ -6,8 +6,8 @@
 
 .delivery-partner-logo {
     border-radius: 10px;
-    width:30px
-    margin-bottom:px;
+    width:85px;
+    margin-bottom:10px;
     padding: 5px;
     background-color: #faf7e8;
     height:10vh;
@@ -45,8 +45,8 @@
 }
 
 .food-munch-logo {
-    width: 150px;;
-    height: 50px;;
+    width: 150px;
+    height: 50px;
 }
 
 .follow-us-section {
