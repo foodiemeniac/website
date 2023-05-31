@@ -6,6 +6,8 @@
 
 .delivery-logo{
     border-radius:100px;
+    width:200px;
+    height:200px;
 }
 .feedback {
     background-image: linear-gradient(to right, lightskyblue, white);
