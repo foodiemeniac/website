@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.patrnered {
+    background-color: #faf7e8;
+}
+
+.delivery-logo{
+    border-radius:100px;
+    width:200px;
+    height:200px;
+}
+.feedback {
+    background-image: linear-gradient(to right, lightskyblue, white);
+}
+
+.feedback-heading {
+
+    font-size:25px;
+}
+
+.map {
+    margin-bottom: 10px;
+}
+
+.footer-section {
+    background-color: #faf7e8;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.foodie-meniac-footer-img {
+width: 150px;
+    height: 50px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.delivery-follow-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size:25px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: lightskyblue;
+    font-size: 45px;
+}
+
+.item-card {
+    background-image: -webkit-radial-gradient(white, lightblue);
+}
+
+.sub-category-name {
+    margin-left: 22px;
+    color: yellow;
+    font-size: 28px;
+}
+
+.price {
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffb703;
+}
+
+.round {
+    border-radius: 8px;
+    background-image: linear-gradient(to right, lightblue, white, skyblue);
+    text-align: center;
+}
+
+.foodnav {
+    background-color: red;
+}
+
+.item {
+    font-family: "canvas";
+    font-weight: 800;
+    font-size: 22px;
+    color: rgb(107, 62, 62);
+}
+
+.menu-card {
+    background-image: linear-gradient(to right, lightskyblue, white);
+    margin-top: 10px;
+    box-shadow: 10px 10px 5px grey;
+    margin-bottom: 10px;
+}
+
+.category {
+    color: black;
+    background-image: linear-gradient(to right, orange, white);
+    margin-left: 5px;
+    font-weight: 800;
+    font-size: 25px;
+    margin-top:15px;
+}
+
+
+
+
+.editedcollapse {
+    background-image: url("logo_4.png");
+    background-size: cover;
+    font-weight: bold;
+
+
+}
+
+.navbar-button {
+    background-color: rgb(83, 139, 137);
+}
+
+.main-cover-img {
+    width:90vw;
+    height:10vh;
+
+}
+
+.ecom-bluetext {
+    color: blue;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.ecom-redtext {
+    color: red;
+    font-weight: 700;
+}
+
+.ecommerce-website-logo {
+    width: 160px;
+    height: 80px;
+    border-radius: 52px;
+}
+
+.fm-heading {
+    font-family: "canvas";
+    color: lightskyblue
+}
+
+.opt-font {
+    font-weight: 500;
+    color: rgb(144, 194, 228);
+}
+
