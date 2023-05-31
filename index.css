@@ -4,15 +4,9 @@
     background-color: #faf7e8;
 }
 
-.delivery-partner-logo {
-    border-radius: 10px;
-    width:85px;
-    margin-bottom:10px;
-    padding: 5px;
-    background-color: #faf7e8;
-    height:10vh;
+.delivery-logo{
+    border-radius:100px;
 }
-
 .feedback {
     background-image: linear-gradient(to right, lightskyblue, white);
 }
